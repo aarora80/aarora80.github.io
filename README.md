@@ -9,7 +9,20 @@ Currently, through my research, coursework, and projects, I am gaining experienc
 - Natural Language Processing 🤖
 - Recommender Systems 🤖
 
-Recently, I have worked for Qualitest - an AI-Led Quality Engineering Company, as a Machine Learning Engineer Intern where I built end-to-end applications to integrate various testing models. I designed an AI interface to automate Quality Assurance Testing using machine learning models and artificial intelligence, and collaborated on optimizing feature selection for their Qualisense model powered by OpenAI. I am currently working as an Undergraduate Research Assistant under Dr. YooJung Choi, conducting research at a probabilistic reasoning and learning lab, focusing on trustworthy AI/ML and advanced probabilistic models. My current project involves developing methods for image inpainting using Sum-Product Networks (SPNs) and Probabilistic Factor Graphs (PFGs). By training these models on a diverse dataset of images with missing sections, I aim to enhance their capability in reconstructing and enhancing images reliably. This work demonstrates the application of probabilistic models in solving real-world challenges in computer vision, particularly in image restoration. I hope you enjoy my website!
+Recently, I have worked for **Qualitest** - an AI-Led Quality Engineering Company, as a **Machine Learning Engineer Intern** where I:
+
+- Built end-to-end applications to integrate various testing models.
+- Designed an AI interface to automate Quality Assurance Testing using machine learning models and artificial intelligence.
+- Collaborated on optimizing feature selection for their Qualisense model powered by OpenAI.
+
+I am currently working as an **Undergraduate Research Assistant** under **Dr. YooJung Choi**, conducting research at a probabilistic reasoning and learning lab, focusing on trustworthy AI/ML and advanced probabilistic models. My current project involves:
+
+- Developing methods for image inpainting using Sum-Product Networks (SPNs) and Probabilistic Factor Graphs (PFGs).
+- Training these models on a diverse dataset of images with missing sections.
+- Enhancing their capability in reconstructing and enhancing images reliably.
+
+This work demonstrates the application of probabilistic models in solving real-world challenges in computer vision, particularly in image restoration. I hope you enjoy my website!
+
 
 I am also an avid Indian Classical Music Performer and Enthusiast! 🎤🎶
 
