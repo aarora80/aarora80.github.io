@@ -21,7 +21,7 @@ I am currently working as an **Undergraduate Research Assistant** under **Dr. Yo
 - Training these models on a diverse dataset of images with missing sections.
 - Enhancing their capability in reconstructing and enhancing images reliably.
 
-This work demonstrates the application of probabilistic models in solving real-world challenges in computer vision, particularly in image restoration. I hope you enjoy my website!
+This work demonstrates the application of probabilistic models in solving real-world challenges in computer vision, particularly in image restoration.
 
 
 I am also an avid Indian Classical Music Performer and Enthusiast! 🎤🎶
