@@ -26,7 +26,8 @@ This work demonstrates the application of probabilistic models in solving real-w
 
 I am also an avid Indian Classical Music Performer and Enthusiast! 🎤🎶
 
-[LinkedIn](https://www.linkedin.com/in/arnav-arora-a35027256/) | [GitHub](https://github.com/aarora80)
+[LinkedIn](https://www.linkedin.com/in/arnav-arora-a35027256/) 
+[GitHub](https://github.com/aarora80)
 
 _Last Updated: July 2024_
 
