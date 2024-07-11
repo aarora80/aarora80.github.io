@@ -75,7 +75,7 @@ Selected into an exceptional community of thinkers and doers that work with corp
   Working with Zoom and Apple to implement a virtual learning space with Apple Products. Work closely with UI/UX design team for user interface improvements making the VR space more intuitive. Assist in Quality Assurance Testing, documenting bugs, and usability issues.
 
 - **State Street**  
-  Currently working with State Street, a Fin-Tech company to create a revolutionary, AI-driven Observability, Digital Experience Framework to have real-time data analysis for End User Experience. Strategizing financial decisions, growing experience in secure Pipeline/Git and CI/CD, and unit testing code with Java and Python. Additionally, writing scripts for data integration. Learning valuable skills in generative AI in llama converting COBOL to JAVA in an iterative agile environment and growing front-end skills.
+  Working with State Street, a Fin-Tech company to create a revolutionary, AI-driven Observability, Digital Experience Framework to have real-time data analysis for End User Experience. Strategizing financial decisions, growing experience in secure Pipeline/Git and CI/CD, and unit testing code with Java and Python. Additionally, writing scripts for data integration. Learning valuable skills in generative AI in llama converting COBOL to JAVA in an iterative agile environment and growing front-end skills.
 
 # Projects 🗂️
 
