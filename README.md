@@ -156,7 +156,7 @@ Proficiency in research computing & shared cluster environments with SOL (ASU Su
 
 # Articles 📝
 
-Unlock the power of machine learning with BigQuery on GCP! Learn how to build, train, and deploy models efficiently using Google Cloud Platform. [Read More](https://medium.com/@arnav_arora/unlocking-the-power-of-machine-learning-with-bigquery-on-gcp-11df6f6b5d7e)
+Unlock the power of machine learning with BigQuery on GCP! Learn how to build, train, and deploy models efficiently using Google Cloud Platform. [Read More](https://medium.com/@arnav9920/machine-learning-with-bigquery-on-gcp-19cfb2f45f50)
 
 # Interests 🎸
 
