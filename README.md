@@ -41,7 +41,7 @@ Barrett, The Honors College - Fulton School of Engineering, Arizona State Univer
 - Key Courses: Data Structures and Algorithms, Operating Systems, Applied Linear Algebra, Computer Networks, Theoretical Computer Science, Principles of Programming, Assembly Language, Object-Oriented Programming, Machine Learning
 - GPA: 3.9
 
-**Bachelor of Science, Mathematical Statistics** ➕➗  
+## Bachelor of Science, Mathematical Statistics ➕➗  
 *2022-2026*  
 Barrett, The Honors College - The College of Liberal Arts and Sciences, Arizona State University  
 - Incoming Thesis
@@ -49,23 +49,23 @@ Barrett, The Honors College - The College of Liberal Arts and Sciences, Arizona 
 - Key Courses: Mathematical Structures, Applied Linear Algebra, Applied Statistics, Applied Regression, Probability, Advanced Calculus
 - GPA: 4.0
 
-**Minor: Economics** 🧑🏽‍💼  
+### Minor: Economics 🧑🏽‍💼  
 - Key Courses: Macroeconomics, Microeconomics, Applied Regression and Data Analytics, Mathematical Economics
 - GPA: 4.0
 
 # Experience 🏢
 
-**Undergraduate Research Intern** 📊  
+### Undergraduate Research Intern 📊  
 *April 2024-Present*  
 Dr. YooJung Choi Lab  
 Selected into Machine Learning Research Internship under the fellowship of Professor Yoojung Choi. Responsible for implementing the training and generation pipeline, collecting/synthesizing multimodal datasets, and running empirical evaluation using Pytorch, Julia, and Large Language Models.
 
-**Machine Learning Engineer Intern** 💻  
+### Machine Learning Engineer Intern 💻  
 *January 2024-April 2024*  
 Qualitest - AI-Led Quality Engineering  
 Designed an AI interface for the automation of Quality Assurance Testing using various machine learning models and artificial intelligence. Collaborated in strategically selecting the most efficient models for different datasets and optimized feature selection in their specific QualiGen and Qualisense models powered by OpenAI.
 
-**Undergraduate Software Intern** 🌐  
+### Undergraduate Software Intern 🌐  
 *August 2023-Present*  
 Luminosity Lab  
 Selected into an exceptional community of thinkers and doers that work with corporate projects and expand the idea of innovation.  
@@ -79,7 +79,7 @@ Selected into an exceptional community of thinkers and doers that work with corp
 
 # Projects 🗂️
 
-**Research-Lab Projects** 👨🏽‍🔬
+## Research-Lab Projects 👨🏽‍🔬
 
 **Image Inpainting using Probabilistic Models**  
 *Yoojung Choi Lab*  
@@ -97,7 +97,7 @@ Collaborating with State Street to develop an AI-driven Observability and Digita
 *Luminosity Lab - Zoom/Apple*  
 Collaborating with Zoom and Apple to implement a virtual learning space using Apple products. Work closely with the UI/UX design team to enhance the user interface of the VR space. Assist in Quality Assurance Testing by documenting bugs and usability issues.
 
-**Personal Projects** 🎒
+## Personal Projects 🎒
 
 **ICM Recommender**  
 A machine learning-based system that recommends music tracks based on the emotional state of the user. Analyzes audio features of songs to categorize them into emotional categories.  
@@ -112,9 +112,9 @@ Implements a Distributed Hash Table (DHT) and a Hot Potato Query Processing Prot
 [GitHub Repository](https://github.com/aarora80/SocketProject.git)  
 [Paper](https://drive.google.com/file/d/1AiUv7d1dYNGCI8McVV1I8_w3Zl7tlpVd/view?usp=sharing)
 
-**Machine Learning** 📉📈
+## Machine Learning 📉📈
 
-**Kaggle Competitions**
+### Kaggle Competitions
 
 - **House Prices - Advanced Regression Techniques (Kaggle Competition)**  
   Participating in this competition to predict the final sale prices of homes using a dataset with a wide array of features.  
@@ -134,22 +134,22 @@ Developed a text classification model using a Support Vector Machine (SVM) withi
 
 # Skills ⚙️
 
-**Technical Languages/Skills** 📱  
+### Technical Languages/Skills 📱  
 Python, Java, C, C++, C#, JavaScript, React, Go, Yellow-brick, MATLAB, Swift, SQL, Prolog, Scheme  
 Proficiency in research computing & shared cluster environments with SOL (ASU Supercomputer)
 
-**Machine/Deep Learning Skills** 📊  
+### Machine/Deep Learning Skills 📊  
 **Fields:** Computer vision, Natural language processing, Signal processing  
 **Tasks:** Classification, Regression, Clustering, Association, Recommendation  
 **Libraries:** Scikit-Learn, NumPy, Pandas, Pyspark, SparkML, nltk, MATLAB built-ins, PyTorch, Tensorflow, Einsum Networks  
 **Models:** Linear/Logistic Regression, Artificial Neural Networks, Decision Trees, Recommender Systems, Recurrent Neural Networks, TensorFlow, Convolutional Neural Networks (CNN), Transformers, PyTorch, Julia, LLM, Probabilistic Flow Circuits
 
-**Data Visualization** 📶  
+### Data Visualization 📶  
 **Python Libraries:** Matplotlib, Seaborn  
 **JS Libraries:** D3, Leaflet  
 **Other tools:** Tableau, Power BI
 
-# Certifications & Training 🪪
+### Certifications & Training 🪪
 
 - Machine and Deep Learning Specialization
 - Adobe Certified Professional in Illustrator and Photoshop
