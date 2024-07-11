@@ -1,7 +1,7 @@
 # About 👨🏽‍💻
 
 <div style="display: flex; align-items: center;">
-    <img src="MeonMountain.heic" alt="Profile Picture" width="100" height="100" style="border-radius: 50%; margin-right: 20px;">
+    <img src="IMG_9152.png" alt="Profile Picture" width="200" height="100" style="border-radius: 50%; margin-right: 20px;">
     <p>Hello World! I am a current Undergraduate student at Arizona State University studying Computer Science, Statistics, and Economics! 📕
     Currently, through my research, coursework, and projects, I am gaining experience in Software and Machine Learning fields, ranging:</p>
 </div>
