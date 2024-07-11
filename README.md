@@ -33,7 +33,7 @@ _Last Updated: July 2024_
 
 # Education 🎓
 
-**Bachelor of Science, Computer Science** 🖥️  
+## Bachelor of Science, Computer Science 🖥️  
 *2022-2026*  
 Barrett, The Honors College - Fulton School of Engineering, Arizona State University  
 - Incoming Thesis
