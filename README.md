@@ -1,4 +1,4 @@
-About 👨🏽‍💻
+#About 👨🏽‍💻
 
 
 Hello World! I am a current Undergraduate student at Arizona State University studying Computer Science, Statistics, and Economics! 📕
@@ -16,7 +16,7 @@ https://www.linkedin.com/in/arnav-arora-a35027256/
 https://github.com/aarora80
 [Last Updated: July 2024]
 
-Education🎓
+#Education🎓
 Bachelor of Science, Computer Science 🖥️                                 2022-2026
 Barrett, The Honors College - Fulton School of Engineering, Arizona State University
 Incoming Thesis.
@@ -33,7 +33,7 @@ Minor: Economics 🧑🏽‍💼
 Key Courses: Macroeconomics, Microeconomics, Applied Regression and Data Analytics, Mathematical Economics
 GPA: 4.0
 
-Experience 🏢
+#Experience 🏢
 
 Undergraduate Research Intern 📊                             April 2024-Present
 Dr.YooJung Choi Lab
@@ -55,7 +55,7 @@ Currently working with State Street, a Fin-Tech company to create a revolutionar
 Strategizing financial decisions, growing experience in secure Pipeline/Git and CI/CD, and unit testing code with Java and Python. Additionally, writing scripts for data integration.
 Learning valuable skills in generative AI in llama converting COBOL to JAVA in an iterative agile environment and growing front-end skills
 
-Projects🗂️
+#Projects🗂️
 Research-Lab Projects 👨🏽‍🔬
 Image Inpainting using Probabilistic Models
 Yoojung Choi Lab
@@ -129,7 +129,7 @@ The performance of the model is evaluated by calculating the mean accuracy, whic
 
 https://github.com/aarora80/NLP.git
 
-Skills⚙️
+#Skills⚙️
 
 Technical Languages/Skills 📱
 Python, Java, C, C++, C#, JavaScript, React, Go, Yellow-brick, MATLAB, Swift, SQL, Prologue, Scheme
@@ -151,7 +151,7 @@ Machine and Deep Learning Specialization
 Adobe Certified Professional in Illustrator and Photoshop
 Bachelors in Indian Classical Music
 
-Articles📝
+#Articles📝
 Unlock the power of machine learning with BigQuery on GCP! Learn how to build, train, and evaluate models seamlessly in Google's scalable data environment
 ​​​​​​​https://medium.com/@arnav9920/machine-learning-with-bigquery-on-gcp-19cfb2f45f50
 
