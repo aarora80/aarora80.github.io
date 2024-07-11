@@ -154,7 +154,7 @@ Unlock the power of machine learning with BigQuery on GCP! Learn how to build, t
 
 # Contact 📞
 
-**Email:** arorar@asu.edu  
+**Email:** arnav9920@gmail.com 
 **LinkedIn:** [Arnav Arora](https://www.linkedin.com/in/arnav-arora-a35027256/)  
 **GitHub:** [@aarora80](https://github.com/aarora80)
 
