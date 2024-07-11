@@ -1,6 +1,6 @@
 # About 👨🏽‍💻
 
-Hello World! I am a current Undergraduate student at Arizona State University studying Computer Science, Statistics, and Economics! 📕
+Hello World👋! I am a current Undergraduate student at Arizona State University studying **Computer Science**, **Statistics**, and **Economics**! 📕
 Currently, through my research, coursework, and projects, I am gaining experience in Software and Machine Learning fields, ranging:
 
 - Full-Stack Development 💻
