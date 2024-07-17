@@ -59,7 +59,7 @@ Barrett, The Honors College - The College of Liberal Arts and Sciences, Arizona 
 ### Undergraduate Research Intern 📊  
 *April 2024-Present*  
 Dr. YooJung Choi Lab  
-Selected into Machine Learning Research Internship under the fellowship of Professor Yoojung Choi. Responsible for implementing the training and generation pipeline, collecting/synthesizing multimodal datasets, and running empirical evaluation using Pytorch, Julia, and Large Language Models.
+Selected into Machine Learning Research Internship under the fellowship of Professor Yoojung Choi. Responsible for implementing the training and generation pipeline for Generative Models and Probabilistic Circuits, collecting/synthesizing multimodal datasets on computing clusters such as ASU's supercomputer (SOL), and running empirical evaluation using Pytorch/TensorFlow, Julia, for Large Language Models.
 
 ### Machine Learning Engineer Intern 💻  
 *January 2024-April 2024*  
