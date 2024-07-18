@@ -40,7 +40,7 @@ Barrett, The Honors College - Fulton School of Engineering, Arizona State Univer
 - Incoming Thesis
 - Awards: Dean’s List, New American University Scholar
 - Key Courses: Data Structures and Algorithms, Operating Systems, Applied Linear Algebra, Computer Networks, Theoretical Computer Science, Principles of Programming, Assembly Language, Object-Oriented Programming, Machine Learning
-- GPA: 3.9
+- GPA: 3.8
 
 ## Bachelor of Science, Mathematical Statistics ➕➗  
 *2022-2026*  
