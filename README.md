@@ -133,6 +133,20 @@ Developed a Bayesian Network model to predict the likelihood of a disease based 
 Developed a text classification model using a Support Vector Machine (SVM) within a Scikit-learn pipeline.  
 [GitHub Repository](https://github.com/aarora80/NLP.git)
 
+# Clubs/Organizations
+### Tamid-International Technology Consulting**
+#### Technology Consultant Member**
+
+**Consulting Project with Primer from ASU**
+- Aiding in Leading the development of a market entry strategy for Primer's AI-driven analytics platform. 
+- I am conducting competitive analysis by comparing its features with those of key competitors like Palantir and Tableau. 
+- I identified a gap in real-time data visualization capabilities, which led to the recommendation and subsequent development of a new real-time analytics feature to enhance product positioning and growth.
+
+**Strategy for Gemini at mygeminigo.com**
+- I Advised Gemini, an AI travel app, on integrating machine learning algorithms to personalize travel recommendations. 
+- I evaluated potential tech partners and designed a roadmap for a real-time user feedback system to improve service efficiency.
+
+
 # Skills ⚙️
 
 ### Technical Languages/Skills 📱  
