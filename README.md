@@ -133,9 +133,9 @@ Developed a Bayesian Network model to predict the likelihood of a disease based 
 Developed a text classification model using a Support Vector Machine (SVM) within a Scikit-learn pipeline.  
 [GitHub Repository](https://github.com/aarora80/NLP.git)
 
-# Clubs/Organizations
-### Tamid-International Technology Consulting**
-#### Technology Consultant Member**
+# Clubs/Organizations 👨🏻‍💼
+### Tamid-International Technology Consulting
+#### Technology Consultant Member
 
 **Consulting Project with Primer from ASU**
 - Aiding in Leading the development of a market entry strategy for Primer's AI-driven analytics platform. 
