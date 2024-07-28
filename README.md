@@ -98,7 +98,10 @@ Collaborating with State Street to develop an AI-driven Observability and Digita
 *Luminosity Lab - Zoom/Apple*  
 Collaborating with Zoom and Apple to implement a virtual learning space using Apple products. Work closely with the UI/UX design team to enhance the user interface of the VR space. Assist in Quality Assurance Testing by documenting bugs and usability issues.
 
-## Personal Projects 🎒
+## FullStack/Machine Learning Projects 🎒
+**Predictive Maintenance API**
+This application provides a RESTful API for predictive maintenance using machine learning. It allows users to submit new data for prediction and receive the results. The application uses a self-trained machine learning model to predict the remaining useful life (RUL) or other maintenance-related metrics.
+[GitHub Repository](https://github.com/aarora80/predictMaintainence.git)
 
 **ICM Recommender**  
 A machine learning-based system that recommends music tracks based on the emotional state of the user. Analyzes audio features of songs to categorize them into emotional categories.  
@@ -112,8 +115,6 @@ An application that uses Spotify's API to authenticate two users and retrieve th
 Implements a Distributed Hash Table (DHT) and a Hot Potato Query Processing Protocol in C.  
 [GitHub Repository](https://github.com/aarora80/SocketProject.git)  
 [Paper](https://drive.google.com/file/d/1AiUv7d1dYNGCI8McVV1I8_w3Zl7tlpVd/view?usp=sharing)
-
-## Machine Learning 📉📈
 
 ### Kaggle Competitions
 
@@ -132,6 +133,14 @@ Developed a Bayesian Network model to predict the likelihood of a disease based 
 **Text Classification with SVM Pipeline**  
 Developed a text classification model using a Support Vector Machine (SVM) within a Scikit-learn pipeline.  
 [GitHub Repository](https://github.com/aarora80/NLP.git)
+
+**GoLang Social Media Analytics API**
+An API for managing and analyzing social media posts. It allows adding posts, retrieving individual post stats, and aggregating stats across all posts.
+[GitHub Repository](https://github.com/aarora80/SocialMAnalyticsAPI.git)
+
+**AR Virtual Mask Filter**
+A simple augmented reality project that allows users to apply a virtual mask filter in real-time using AR.js and A-Frame. The filter can be customized with different mask images.
+[GitHub Repository](https://github.com/aarora80/ARVirtualMaskFilter.git)
 
 # Clubs/Organizations 👨🏻‍💼
 ### Tamid-International Technology Consulting
