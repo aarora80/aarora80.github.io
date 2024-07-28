@@ -98,17 +98,22 @@ Collaborating with State Street to develop an AI-driven Observability and Digita
 *Luminosity Lab - Zoom/Apple*  
 Collaborating with Zoom and Apple to implement a virtual learning space using Apple products. Work closely with the UI/UX design team to enhance the user interface of the VR space. Assist in Quality Assurance Testing by documenting bugs and usability issues.
 
-## FullStack/Machine Learning Projects 🎒
-**Predictive Maintenance API**
-This application provides a RESTful API for predictive maintenance using machine learning. It allows users to submit new data for prediction and receive the results. The application uses a self-trained machine learning model to predict the remaining useful life (RUL) or other maintenance-related metrics.
+Here is the formatted version:
+
+---
+
+## FullStack/Machine Learning Projects 🎒📊
+
+**Predictive Maintenance API**  
+This application provides a RESTful API for predictive maintenance using machine learning. It allows users to submit new data for prediction and receive the results. The application uses a self-trained machine learning model to predict the remaining useful life (RUL) or other maintenance-related metrics.  
 [GitHub Repository](https://github.com/aarora80/predictMaintainence.git)
 
 **ICM Recommender**  
-A machine learning-based system that recommends music tracks based on the emotional state of the user. Analyzes audio features of songs to categorize them into emotional categories.  
+A machine learning-based system that recommends music tracks based on the emotional state of the user. It analyzes audio features of songs to categorize them into emotional categories.  
 [GitHub Repository](https://github.com/aarora80/ICMReccomender.git)
 
 **SpotifyCompatibility**  
-An application that uses Spotify's API to authenticate two users and retrieve their music data, analyzing and comparing musical preferences to determine compatibility.  
+An application that uses Spotify's API to authenticate two users and retrieve their music data. It analyzes and compares musical preferences to determine compatibility.  
 [GitHub Repository](https://github.com/aarora80/SpotifyCompatibility.git)
 
 **Distributed Hash Table (DHT) and Hot Potato Query Processing Protocol Project**  
@@ -134,13 +139,15 @@ Developed a Bayesian Network model to predict the likelihood of a disease based 
 Developed a text classification model using a Support Vector Machine (SVM) within a Scikit-learn pipeline.  
 [GitHub Repository](https://github.com/aarora80/NLP.git)
 
-**GoLang Social Media Analytics API**
-An API for managing and analyzing social media posts. It allows adding posts, retrieving individual post stats, and aggregating stats across all posts.
+**GoLang Social Media Analytics API**  
+An API for managing and analyzing social media posts. It allows adding posts, retrieving individual post stats, and aggregating stats across all posts.  
 [GitHub Repository](https://github.com/aarora80/SocialMAnalyticsAPI.git)
 
-**AR Virtual Mask Filter**
-A simple augmented reality project that allows users to apply a virtual mask filter in real-time using AR.js and A-Frame. The filter can be customized with different mask images.
+**AR Virtual Mask Filter**  
+A simple augmented reality project that allows users to apply a virtual mask filter in real-time using AR.js and A-Frame. The filter can be customized with different mask images.  
 [GitHub Repository](https://github.com/aarora80/ARVirtualMaskFilter.git)
+
+---
 
 # Clubs/Organizations 👨🏻‍💼
 ### Tamid-International Technology Consulting
