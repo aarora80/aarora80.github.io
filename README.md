@@ -32,7 +32,7 @@ I am also an avid Indian Classical Music Performer and Enthusiast! 🎤🎶
 [LinkedIn](https://www.linkedin.com/in/arnav-arora-a35027256/) 
 [GitHub](https://github.com/aarora80)
 
-_Last Updated: July 2024_
+_Last Updated: February 2025_
 
 # Education 🎓
 
