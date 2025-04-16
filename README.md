@@ -10,7 +10,7 @@ Currently, through my research, coursework, and projects, I am gaining experienc
 - Representation Learning and Perception (CV/NLP) 🧠
 - Generative AI and Recommender Systems 🎯
 
-Recently, I am working at **Intel Corporation** as an **AI/ML Software Engineering Intern**,
+Recently, I am working at <img src="https://github.com/user-attachments/assets/ae52bef1-9f47-4deb-8c3c-48c42408787a" alt="Intel Logo" width="90"/> as an **AI/ML Software Engineering Intern**,
 where I am contributing to:
 
 - Next-gen internal platforms that harness advanced AI for intelligent information discovery
