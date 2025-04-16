@@ -5,18 +5,20 @@ Currently, through my research, coursework, and projects, I am gaining experienc
 
 - Full-Stack Development 💻
 - Mathematical Statistics and Algorithm Analysis 📈
-- Data Science 📊
-- Computer Vision 🤖
-- Natural Language Processing 🤖
-- Recommender Systems 🤖
+- Data Science and Intelligent Analytics 📊
+- Applied Machine Learning and Predictive Modeling  🤖
+- Representation Learning and Perception (CV/NLP) 🧠
+- Generative AI and Recommender Systems 🎯
 
-Recently, I have worked for **Qualitest** - an AI-Led Quality Engineering Company, as a **Machine Learning Engineer Intern** where I:
+Recently, I am working at **Intel Corporation** as an **AI/ML Software Engineering Intern**,
+where I am contributing to:
 
-- Built end-to-end applications to integrate various testing models.
-- Designed an AI interface to automate Quality Assurance Testing using machine learning models and artificial intelligence.
-- Collaborated on optimizing feature selection for their Qualisense model powered by OpenAI.
+- Next-gen internal platforms that harness advanced AI for intelligent information discovery
+- Adaptive ML systems for automating complex workflows
+- Robust pipelines enabling real-time, AI-driven insights at scale
 
-I am currently working as an **Undergraduate Research Assistant** under **Dr. YooJung Choi**, conducting research at a probabilistic reasoning and learning lab, focusing on trustworthy AI/ML and advanced probabilistic models. My current project involves:
+
+I am also currently working as an **Undergraduate Research Assistant** under **Dr. YooJung Choi**, conducting research at a probabilistic reasoning and learning lab, focusing on trustworthy AI/ML and advanced probabilistic models. My current project involves:
 
 - Developing methods for image inpainting using Sum-Product Networks (SPNs) and Probabilistic Factor Graphs (PFGs).
 - Training these models on a diverse dataset of images with missing sections.
@@ -55,6 +57,8 @@ Barrett, The Honors College - The College of Liberal Arts and Sciences, Arizona 
 - GPA: 4.0
 
 # Experience 🏢
+### **Intel Corporation – AI/ML Software Engineering Intern** (Feb 2025–Present)
+Currently Developing 😎
 
 ### Undergraduate Research Intern 📊  
 *April 2024-Present*  
@@ -98,7 +102,6 @@ Collaborating with State Street to develop an AI-driven Observability and Digita
 *Luminosity Lab - Zoom/Apple*  
 Collaborating with Zoom and Apple to implement a virtual learning space using Apple products. Work closely with the UI/UX design team to enhance the user interface of the VR space. Assist in Quality Assurance Testing by documenting bugs and usability issues.
 
-Here is the formatted version:
 
 ---
 
